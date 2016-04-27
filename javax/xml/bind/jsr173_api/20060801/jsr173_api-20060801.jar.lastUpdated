@@ -1,0 +1,12 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Apr 27 07:46:07 PDT 2016
+http\://repo.spring.io/ext-release-local/.error=
+http\://repo.spring.io/snapshot/.lastUpdated=1461768367593
+http\://repo.spring.io/snapshot/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1461768364089
+http\://repo.spring.io/milestone/.error=
+http\://repo.spring.io/ext-release-local/.lastUpdated=1461768367183
+http\://repo.spring.io/milestone/.lastUpdated=1461768367394
+http\://repo.maven.apache.org/maven2/.error=
+https\://raw.github.com/mmohen/mvn-repo/gh-pages/.lastUpdated=1461768358329
+https\://raw.github.com/mmohen/mvn-repo/gh-pages/.error=
