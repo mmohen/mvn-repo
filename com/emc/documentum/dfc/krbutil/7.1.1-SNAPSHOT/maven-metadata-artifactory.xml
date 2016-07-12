@@ -2,13 +2,13 @@
 <metadata>
   <groupId>com.emc.documentum.dfc</groupId>
   <artifactId>krbutil</artifactId>
-  <version>7.1.1-20141028.163416-41</version>
+  <version>7.1.1-20140930.072953-36</version>
   <versioning>
     <snapshot>
       <timestamp>20141104.073759</timestamp>
       <buildNumber>42</buildNumber>
     </snapshot>
-    <lastUpdated>20151019011102</lastUpdated>
+    <lastUpdated>20160705071611</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>

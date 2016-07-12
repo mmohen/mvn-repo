@@ -1,4 +1,6 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Mon Jul 11 17:10:28 PDT 2016
+#Mon Jul 11 17:33:20 PDT 2016
+configservice-api-7.2-SNAPSHOT.pom>com.emc.documentum.spring=
 configservice-api-7.2-SNAPSHOT.jar>artifactory=
 configservice-api-7.2-SNAPSHOT.pom>artifactory=
+configservice-api-7.2-SNAPSHOT.jar>com.emc.documentum.spring=

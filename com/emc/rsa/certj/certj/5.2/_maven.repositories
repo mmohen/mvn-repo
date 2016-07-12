@@ -1,4 +1,6 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Sun Oct 18 20:52:22 PDT 2015
+#Sun Jul 10 00:42:38 PDT 2016
+certj-5.2.jar>com.emc.documentum.spring=
 certj-5.2.jar>artifactory=
+certj-5.2.pom>com.emc.documentum.spring=
 certj-5.2.pom>artifactory=
