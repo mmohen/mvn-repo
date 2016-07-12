@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.emc.documentum.dfc</groupId>
+  <artifactId>dfc</artifactId>
+  <version>7.2-20160605.203215-25</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20160710.203551</timestamp>
+      <buildNumber>32</buildNumber>
+    </snapshot>
+    <lastUpdated>20160710203646</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>7.2-20160710.203551-32</value>
+        <updated>20160710203551</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>nativeLib</classifier>
+        <extension>zip</extension>
+        <value>7.2-20160710.203551-32</value>
+        <updated>20160710203551</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>7.2-20160710.203551-32</value>
+        <updated>20160710203551</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.emc.documentum.dfc</groupId>
+  <artifactId>krbutil</artifactId>
+  <version>7.2-20160607.114739-26</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20160710.203611</timestamp>
+      <buildNumber>32</buildNumber>
+    </snapshot>
+    <lastUpdated>20160710203613</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>7.2-20160710.203611-32</value>
+        <updated>20160710203611</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>7.2-20160710.203611-32</value>
+        <updated>20160710203611</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
