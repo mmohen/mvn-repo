@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.emc.documentum.services.config</groupId>
+  <artifactId>configservice-impl</artifactId>
+  <version>7.2-20160703.203654-31</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20160710.203713</timestamp>
+      <buildNumber>32</buildNumber>
+    </snapshot>
+    <lastUpdated>20160710203714</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>7.2-20160710.203713-32</value>
+        <updated>20160710203713</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>7.2-20160710.203713-32</value>
+        <updated>20160710203713</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
